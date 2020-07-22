@@ -1,4 +1,4 @@
-JANGAN BANYAK BACOT
+#JANGAN BANYAK BACOT
 #EH ANJING MAU NGERECODE YA
 
 blue='\033[34;1m'
@@ -18,7 +18,9 @@ echo " ║ 7.SPAM                  $cyan ║ 8.AUTO LIKE FB            ║"
 echo " ║ 9.EXPLOIT               $cyan ║ 10.KELUAR                 ║"
 echo "  ════════════════════════$cyan══╦═══════════════════════════"
 echo
-read -p "PILIH : " broif [ $bro = 1 ] || [ $bro = 1 ]
+read -p "PILIH : " bro
+
+if [ $bro = 1 ] || [ $bro = 1 ]
 then
 sleep 1
 clear
