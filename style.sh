@@ -42,6 +42,7 @@ read -p "{KEMBALI}"
 fi
 
 if [ $bro = 3 ] || [ $bro = 3 ]
+then
 echo "$cyan SCRIPT MASI DALAM PROSES"
 echo "$cyan SILAKAN GUNAKAN SCRIPT LAIN"
 echo
@@ -85,6 +86,7 @@ python2 cwa.py
 fi
 
 if [ $bro = 8 ] || [ $bro = 8 ]
+then
 echo "OTW COK..."
 sleep
 git clone https://github.com/VanGanteng/Report
@@ -107,5 +109,4 @@ if [ $bro = 10 ] || [ $bro = 10 ]
 then
 echo "$purple TERIMA KASIH TELAH MENGGUNAKAN TOOLS KAMI"
 echo "$cyan BY : FAJAR CYBER "
-echo
 fi
